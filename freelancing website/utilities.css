@@ -1,0 +1,26 @@
+.d-flex{
+    display: flex;
+}
+
+.text-success{
+    color: green;
+}
+
+.button{
+   
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.button-success{
+    background-color: green;
+    color: white;
+}
+
+.icon{
+    padding: 10px;
+    border-radius: 50%;
+    background-color: green;
+    color: white;
+}

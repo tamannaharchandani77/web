@@ -1,0 +1,21 @@
+.d-flex{
+    display: flex;
+}
+
+.btn-items{
+    padding: 10px;
+    background-color: #EDE9E8;
+    color: #5C7E8C;
+    font-size: 12px;
+    margin-top: 30px;
+    width: 250px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.headline{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+
